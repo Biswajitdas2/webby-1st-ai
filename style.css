@@ -11,7 +11,6 @@
     src: url(cardinalfruitweb-regular.woff2);
 }
 .page-1{
-    height: 100vh;
     width: 100%;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     animation-direction: alternate-reverse;
@@ -201,7 +200,7 @@ i:hover{
         background-image: linear-gradient(to bottom, #ff0844 0%, #ffb199 100%);
     }
     .img-part{
-        height: 200px;
+        height: 400px;
         background-image: url(communication.svg);
         width: 49%;
         background-size: contain;
