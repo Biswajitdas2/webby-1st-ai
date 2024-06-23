@@ -100,7 +100,7 @@ i:hover{
     justify-content: center;
     align-items: center;
     padding-left: 30px;
-    color: black;
+    color: green;
     background-position: center;
 }
 @media screen and (max-width:600px) {
@@ -160,7 +160,7 @@ i:hover{
         border-radius: 40px;
         font-family: style;
         font-weight: bold;
-        margin-top: 60px;
+        margin-top: 40px;
         cursor: pointer;
         transition-duration: 0.5s;
         background-color: #97d9e1;
@@ -188,7 +188,6 @@ i:hover{
     }
 
     .page-2{
-        height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -196,7 +195,7 @@ i:hover{
         background-image: linear-gradient(to bottom, #ff0844 0%, #ffb199 100%);
     }
     .img-part{
-        height: 400px;
+
         background-image: url(communication.svg);
         width: 49%;
         background-size: contain;
@@ -204,7 +203,7 @@ i:hover{
         background-position: center;
     }
     .text-part{
-        height: 300px;
+
         font-family: style;
         font-size: 20px;
         text-align: center;
