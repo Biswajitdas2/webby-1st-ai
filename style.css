@@ -92,15 +92,11 @@ i:hover{
     background-position: center;
 }
 .text-part{
+  font-family: style;
+    font-size: 24px;
+    text-align: center;
+    color: black;
     width: 48%;
-    background-size: cover;
-    font-family: style;
-    font-size: 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-left: 30px;
-    color: green;
     background-position: center;
 }
 @media screen and (max-width:600px) {
