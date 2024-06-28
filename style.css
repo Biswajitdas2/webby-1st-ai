@@ -84,7 +84,6 @@ i:hover{
     background-image: linear-gradient(to bottom, #ff0844 0%, #ffb199 100%);
 }
 .img-part{
-    height: 500px;
     background-image: url(communication.svg);
     width: 49%;
     background-size: contain;
@@ -191,9 +190,8 @@ i:hover{
         background-image: linear-gradient(to bottom, #ff0844 0%, #ffb199 100%);
     }
     .img-part{
-
         background-image: url(communication.svg);
-        width: 49%;
+        width: 300px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
