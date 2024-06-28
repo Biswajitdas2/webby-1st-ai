@@ -86,8 +86,7 @@ i:hover{
 .img-part{
     background-image: url(communication.svg);
     width: 49%;
-    position:absolute;
-    height:300px;
+    height:350px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
