@@ -199,9 +199,9 @@ i:hover{
         background-position: center;
     }
     .text-part{
-
-        font-family: style;
+         font-family: style;
         font-size: 20px;
+        width: 300px;
         text-align: center;
     }
 }
