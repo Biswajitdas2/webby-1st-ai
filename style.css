@@ -13,14 +13,14 @@
 .page-1{
     width: 100%;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
-    animation-direction: alternate-reverse;
-    animation: a1 1s forwards;
+    
 }
 
 .page-1 h1{
     font-family: bold;
     font-size: 130px;
     text-align: center;
+    margin-top:30px;
     animation: d1 2s forwards;
 }
 @keyframes d1 {
@@ -36,7 +36,7 @@
     text-align: center;
     font-family: style;
     font-size: 28px;
-    margin-top: 20px;
+    margin-top: 25px;
     animation: d2 3s forwards;
 }
 @keyframes d2 {
@@ -72,7 +72,7 @@ button{
     border-radius: 40px;
     font-family: style;
     font-weight: bold;
-    margin-top: 60px;
+    margin-top: 70px;
     cursor: pointer;
     transition-duration: 0.5s;
     background-color: #97d9e1;
